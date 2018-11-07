@@ -19,6 +19,8 @@ public class TestA {
 
         System.out.println("user1");
 
+        System.out.println("测试冲突，user1本地修改还未提交");
+
         System.out.println("测试冲突 user2");
     }
 }
