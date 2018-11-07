@@ -18,5 +18,7 @@ public class TestA {
         System.out.println("test git5");
 
         System.out.println("user1");
+
+        System.out.println("测试冲突 user2");
     }
 }
